@@ -10,7 +10,11 @@
   "description": "",
   "dependencies": {
     "express": "^5.2.1",
+<<<<<<< HEAD
     "mysql2": "^3.20.0",
+=======
+    "mysql2": "^3.17.2",
+>>>>>>> d40d5832c702de94e18b69367b0dc2a78388a3f3
     "sequelize": "^6.37.7"
   },
   "devDependencies": {
